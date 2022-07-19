@@ -18,7 +18,7 @@ Clone this repo to your machine. If you need help with this part, GitHub has [gr
 
 ## This is how the extension looks:
 
-![](deepali_links.png)
+![](Capture.png)
 
 I have done this whole Project in Visual Studio code. if you don't have Visual Studio code setup in ur computer ,download it by [clicking here](https://code.visualstudio.com/Download)
 
